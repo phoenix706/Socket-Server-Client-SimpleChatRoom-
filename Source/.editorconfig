@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# SYSLIB0006: 類型或成員已經過時
+dotnet_diagnostic.SYSLIB0006.severity = suggestion

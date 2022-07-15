@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ObjectDumper.NET/3.4.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/ObjectDumping.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/ObjectDumping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectDumper.NET/3.4.6": {
+      "sha512": "R3Lnhl5gsQqwZEgXFF11Y9Cbx7tQPqnyqSeR3mVjVHgp8/qRf2Y219dWfeZhDmYKtaaOzgg3HYI2j44dWSEXfg==",
+      "type": "package",
+      "path": "objectdumper.net/3.4.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net45/ObjectDumping.dll",
+        "lib/netstandard1.2/ObjectDumping.dll",
+        "lib/netstandard2.0/ObjectDumping.dll",
+        "lib/netstandard2.1/ObjectDumping.dll",
+        "objectdumper.net.3.4.6.nupkg.sha512",
+        "objectdumper.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ObjectDumper.NET >= 3.4.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wioxw\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\test\\Test\\CSharp\\Socket_Message\\Project\\Common\\Common.csproj",
+      "projectName": "Common",
+      "projectPath": "F:\\test\\Test\\CSharp\\Socket_Message\\Project\\Common\\Common.csproj",
+      "packagesPath": "C:\\Users\\wioxw\\.nuget\\packages\\",
+      "outputPath": "F:\\test\\Test\\CSharp\\Socket_Message\\Project\\Common\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\wioxw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ObjectDumper.NET": {
+            "target": "Package",
+            "version": "[3.4.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "X762GwB1DwdRHhXSLxBe0J23EMR57IEImyk4p2dmfyPWObtGUM8Sl5zq4tAiIpdMvVcyqNls+uO08sQY4POkSA==",
+  "success": true,
+  "projectFilePath": "F:\\test\\Test\\CSharp\\Socket_Message\\Project\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wioxw\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\objectdumper.net\\3.4.6\\objectdumper.net.3.4.6.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\wioxw\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+F:\test\Test\CSharp\Socket_Message\Project\Common\bin\Debug\net6.0\Common.deps.json
+F:\test\Test\CSharp\Socket_Message\Project\Common\bin\Debug\net6.0\Common.dll
+F:\test\Test\CSharp\Socket_Message\Project\Common\bin\Debug\net6.0\Common.pdb
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.dll
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\refint\Common.dll
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\Common.pdb
+F:\test\Test\CSharp\Socket_Message\Project\Common\obj\Debug\net6.0\ref\Common.dll

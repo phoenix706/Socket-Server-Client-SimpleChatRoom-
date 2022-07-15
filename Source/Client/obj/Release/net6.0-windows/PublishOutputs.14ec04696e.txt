@@ -1,0 +1,8 @@
+F:\test\Test\CSharp\Socket_Message\Release\Client\Client.exe
+F:\test\Test\CSharp\Socket_Message\Release\Client\Client.dll
+F:\test\Test\CSharp\Socket_Message\Release\Client\Client.deps.json
+F:\test\Test\CSharp\Socket_Message\Release\Client\Client.runtimeconfig.json
+F:\test\Test\CSharp\Socket_Message\Release\Client\Client.pdb
+F:\test\Test\CSharp\Socket_Message\Release\Client\ObjectDumping.dll
+F:\test\Test\CSharp\Socket_Message\Release\Client\Common.dll
+F:\test\Test\CSharp\Socket_Message\Release\Client\Common.pdb
